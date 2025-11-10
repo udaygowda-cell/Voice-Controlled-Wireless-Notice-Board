@@ -118,4 +118,5 @@ If you need the **.aia App project**, ask: **"Send App File"**
 ## Author
 Project: **Voice-Controlled Wireless Notice Board**  
 Platform: **Arduino + Android (MIT App Inventor)**
+Team: Elite Exper's
 
